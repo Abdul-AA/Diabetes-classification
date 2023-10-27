@@ -24,6 +24,6 @@ Outcome: Class variable (either 0 or 1). 268 of 768 values are 1, and the others
 
 The aim is to build and compare several models that can accurately predict whether an individual has diabetes. The chosen classification algorithms include KNN, decision Tree, and different Naive Baiyes models. In this project, I performed the following steps:
 
-Exploratory data analysis
-Chossing a validation framework
-Comparing all the resulting models from the chosen algorithms
+- Exploratory data analysis
+- Choosing a validation framework
+- Comparing all the resulting models from the chosen algorithms
